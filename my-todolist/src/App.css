@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+  background-color: #f8f9fa; 
+}
+
+.container {
+  
+  align-items: center; 
+  justify-content: center; 
+  
+}
+
+.todo-box {
+  background-color: #72e253; 
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+button.text-center {
+  
+  text-align: center;
+  display: block;
+  width: 100%; 
+}
